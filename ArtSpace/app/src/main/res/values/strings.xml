@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    // Image Titles
+    <string name="Girl_with">Девушка с жемчужной серёжкой\n</string>
+    <string name="Couple">Портрет четы Арнольфини\n</string>
+    <string name="Adam">Сотворение Адама\n</string>
+    <string name="Pompei">Последний день Помпеи\n</string>
+
+    // Image Authors
+    <string name="author_Girl">"Ян Вермеер"</string>
+    <string name="author_Adam">"Микеланджело Буонарроти"</string>
+    <string name="author_Couple">"Ян ван Эйк"</string>
+    <string name="author_Pompei">"Карл Брюллов"</string>
+
+    // Image Release Years
+    <string name="Girl">(1655)</string>
+    <string name="CoupleNum">(1434)</string>
+    <string name="AdamNum">(1511)</string>
+    <string name="PompeiNum">(1830)</string>
+
+    // Buttons
+    <string name="next_button">Next</string>
+    <string name='previous_button'>Previous</string>
+</resources>
